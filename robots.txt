@@ -1,0 +1,3 @@
+# www.robotstxt.org/
+# Robots will be the death of us all!
+User-agent: *
